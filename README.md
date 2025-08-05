@@ -20,7 +20,7 @@ The objective of this application is to develop a secure, Python-based system th
   
 - AI model trained on 100k+ telemetry record.s
 - Detects irregularities in engine, battery, brakes, and more.
-- 
+  
 # Interactive Dashboard with Plotly:
 - Real-time graphical display of vehicle diagnostics
 - Error trend visualization, performance history
