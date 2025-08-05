@@ -10,13 +10,13 @@ The objective of this application is to develop a secure, Python-based system th
 
 - Encrypted verification of user identity using biometric data.
 - High accuracy and privacy-preserving computation.
-  
-  # Remote Vehicle Start via Bluetooth:
+
+# Remote Vehicle Start via Bluetooth:
   
 - Smartphone-controlled ignition using Python Bluetooth libraries.
 - Supports seamless pairing and real-time connectivity.
 
-  # Vehicle Anomaly Detection with PyTorch:
+ # Vehicle Anomaly Detection with PyTorch:
   
 - AI model trained on 100k+ telemetry record.s
 - Detects irregularities in engine, battery, brakes, and more.
@@ -33,7 +33,7 @@ The objective of this application is to develop a secure, Python-based system th
 
 # Prerequisites:
 
-- Python 3.8+
+- Python 3.0
 - Pip package manager
 - Bluetooth-enabled smartphone and vehicle hardware
 - PySypt
