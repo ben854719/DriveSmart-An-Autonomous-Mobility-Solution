@@ -38,6 +38,8 @@ The objective of the project is to develop a secure application with Python base
 - Bluetooth-enabled smartphone and vehicle hardware
 - PySypt
 - SDV
+- Raspberry PI
+- Linux
 
 # Agentic AI Configuration:
 
