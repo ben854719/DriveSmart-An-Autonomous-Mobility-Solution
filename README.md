@@ -22,12 +22,14 @@ The project will deliver a Bluetooth-enabled application for secure, remote acti
 - Detects irregularities in engine, battery, brakes, and more.
   
 # Interactive Dashboard with Plotly:
-- Real-time graphical display of vehicle diagnostics
-- Error trend visualization, performance history
+
+- Real-time graphical display of vehicle diagnostics.
+- Error trend visualization, performance history.
 
  # Multilingual Report Generation (Agentic AI):
-- English, French, and Spanish translations of vehicle health reports
-- Text-to-speech and push notifications supported
+ 
+- English, French, and Spanish translations of vehicle health reports.
+- Text-to-speech and push notifications supported.
 
 # Installation:
 
