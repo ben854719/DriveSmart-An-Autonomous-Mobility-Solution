@@ -2,7 +2,7 @@
 
 #  Objective:
 
-The objective of this application is to develop a secure, Python-based system that allows users to remotely start their autonomous vehicle via Bluetooth. The system will feature encrypted biometric authentication powered by PySyft, achieving identity verification accuracy above 98% across varying environmental condition. PyTorch will drive anomaly detection, to identify early-stage malfunctions with a precision rate of 95%. Real-time diagnostics will be presented via Plotly dashboards, offering performance insights updated every 5 seconds with error categorization response latency under 1 second. To ensure accessibility, Agentic AI will enable multilingual reporting in English, French, and Spanish, with language recognition and translation accuracy exceeding 97%, enhancing user comprehension and vehicle safety.
+The objective of the project is to develop a secure application with Python based system that allows users to remotely start their autonomous vehicle via Bluetooth. The system will feature encrypted biometric authentication powered by PySyft, achieving identity verification accuracy above 98% across varying environmental condition. PyTorch will drive anomaly detection, to identify early-stage malfunctions with a precision rate of 95%. Real-time diagnostics will be presented via Plotly dashboards, offering performance insights updated every 5 seconds with error categorization response latency under 1 second. To ensure accessibility, Agentic AI will enable multilingual reporting in English, French, and Spanish, with language recognition and translation accuracy exceeding 97%, enhancing user comprehension and vehicle safety.
 
 # Features:
 
