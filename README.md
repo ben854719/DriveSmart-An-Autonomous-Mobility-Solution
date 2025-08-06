@@ -39,7 +39,6 @@ The project will deliver a Bluetooth-enabled application for secure, remote acti
 - Pip package manager
 - Bluetooth-enabled smartphone and vehicle hardware
 - PySypt
-- SDV
 - Raspberry PI
 - Linux
 
