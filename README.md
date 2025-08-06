@@ -46,6 +46,7 @@ The project will deliver a Bluetooth-enabled application for secure, remote acti
 - Linux
 - Pytorch
 - Plotly
+- socket-io
 
 # Agentic AI Configuration:
 
