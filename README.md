@@ -35,7 +35,7 @@ The project will deliver a Bluetooth-enabled application for secure, remote acti
 
 # Prerequisites:
 
-- Python 3.0
+- Python 3.8
 - Pip package manager
 - Bluetooth-enabled smartphone and vehicle hardware
 - PySypt
