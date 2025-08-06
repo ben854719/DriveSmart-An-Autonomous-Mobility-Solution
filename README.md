@@ -41,7 +41,7 @@ The project will deliver a Bluetooth-enabled application for secure, remote acti
 - PySypt
 - Cryptography
 - Pandas
-- Tensal
+- Tenseal
 - Numpy
 - Linux
 - Pytorch
