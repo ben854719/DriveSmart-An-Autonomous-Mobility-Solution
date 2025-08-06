@@ -44,6 +44,8 @@ The project will deliver a Bluetooth-enabled application for secure, remote acti
 - Tensal
 - Numpy
 - Linux
+- Pytorch
+- Plotly
 
 # Agentic AI Configuration:
 
