@@ -6,7 +6,8 @@ The project will deliver a Bluetooth-enabled application for secure, remote acti
 
 # Picture Of An Autonomous Vehicle:
 
-<img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/962a2187-3e2c-4b17-9a91-e94ec811423e" />
+<img width="1200" height="680" alt="image" src="https://github.com/user-attachments/assets/75978124-4599-41ff-b4ca-5afe6451d953" />
+
 
 
 # Features:
