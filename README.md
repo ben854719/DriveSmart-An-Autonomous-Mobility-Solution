@@ -4,7 +4,7 @@
 
 The project will deliver a Bluetooth-enabled application for secure, remote activation of an autonomous vehicle, powered by encrypted biometric authentication via PySyft—achieving over 98% accuracy in diverse real-world conditions. PyTorch-based anomaly detection provides 95% precision, validated across 10,000+ sensor inputs to identify early-stage malfunctions. Real-time diagnostics are visualized through dynamic Plotly dashboards. Agentic AI enables multilingual reporting in English, French, and Spanish, with translation accuracy exceeding of 97%.
 
-# Picture of Autonomous Vehicle:
+# Picture Of An Autonomous Vehicle:
 
 <img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/962a2187-3e2c-4b17-9a91-e94ec811423e" />
 
